@@ -4,7 +4,7 @@ import awsCert from "../assets/aws.jpg";
 import aws2Cert from "../assets/AWS2.png";
 import britishCert from "../assets/british.png";
 import cEssentialCert from "../assets/c_essentiol.png";
-import cIntroCert from "../assets/c_intro.png";
+import cIntroCert from "../assets/C_intro.png";
 import packetRacerCert from "../assets/packetRacer.png";
 import ecCert from "../assets/EC.png";
 import cyberSecCert from "../assets/cybersecurity.png";
